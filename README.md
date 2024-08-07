@@ -21,3 +21,6 @@ Dataset link: [Kaggle - 100 Bird Species](https://www.kaggle.com/gpiosenka/100-b
 - **Pre-trained on:** ImageNet (ILSVRC-2012-CLS)
 
 Model URL: [EfficientNet-B4 on TensorFlow Hub](https://tfhub.dev/tensorflow/efficientnet/b4/classification/1)
+
+## 4. Results: 
+![Birds](https://github.com/user-attachments/assets/c9c4a26b-d35f-4966-ae63-02d138d8d33a)
