@@ -1,4 +1,4 @@
-# Birds Species - Image Classification 🪶
+# Birds Species - Image Classification 
 
 ## 1. Problem Statement
 
